@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
+**Note:** I recently transitioned to this GitHub account after losing access to my previous account (pe-te-r) on September 2025. I'm actively rebuilding my repositories here.
+
+🔗 **Portfolio:** [portfolio-peters-projects-79634003.vercel.app](https://portfolio-peters-projects-79634003.vercel.app)
+📫 **Email:** peterwahu3491@gmail.com<h1 align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pe-ter-m&label=Profile%20views&color=0e75b6&style=flat" alt="pe-ter-m" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pe-ter-m" alt="pe-ter-m" /></a> </p>
