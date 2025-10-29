@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-**Note:** I recently transitioned to this GitHub account after losing access to my previous account (pe-te-r) on September 2025. I'm actively rebuilding my repositories here.
+**Note:** I recently transitioned to this GitHub account after losing access to my previous account https://github.com/Pe-te-r on September 2025. I'm actively rebuilding my repositories here.
 
 🔗 **Portfolio:** [portfolio-peters-projects-79634003.vercel.app](https://portfolio-peters-projects-79634003.vercel.app)
 📫 **Email:** peterwahu3491@gmail.com<h1 align="center">
